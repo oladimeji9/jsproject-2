@@ -1,0 +1,25 @@
+{
+  "name": "JavaScript-Project-2",
+  "version": "1.0.0",
+  "description": "JavaScript Project 2",
+  "main": "app/fussBuzz.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/fussBuzzTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oladimeji9/JavaScript-Project-2.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Akande Oladimeji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oladimeji9/JavaScript-Project-2/issues"
+  },
+  "homepage": "https://github.com/oladimeji9/JavaScript-Project-2#readme"
+}
